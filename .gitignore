@@ -1,0 +1,16 @@
+_build
+/rel/
+*.db
+*~
+.#*
+\#*
+.rebar
+erl_crash.dump
+lib/
+bin/
+include/
+config/*/sys.config
+deps/*
+rebar.lock
+.DS_Store
+sys.config.tmpl
